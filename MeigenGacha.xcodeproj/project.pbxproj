@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		DF6ABB232DB75D4100D68A35 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = DF6ABB222DB75D4100D68A35 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		DF6ABAEC2DB705C800D68A35 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		DF6ABADE2DB705C700D68A35 /* MeigenGacha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeigenGacha.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF6ABAEB2DB705C800D68A35 /* MeigenGachaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeigenGachaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF6ABAF52DB705C800D68A35 /* MeigenGachaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeigenGachaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DF6ABB222DB75D4100D68A35 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				DF6ABAEE2DB705C800D68A35 /* MeigenGachaTests */,
 				DF6ABAF82DB705C800D68A35 /* MeigenGachaUITests */,
 				DF6ABADF2DB705C700D68A35 /* Products */,
+				DF6ABB222DB75D4100D68A35 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF6ABB232DB75D4100D68A35 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

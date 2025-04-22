@@ -1,5 +1,5 @@
 //
-//  MeigenData.swift
+//  Meigen.swift
 //  MeigenGacha
 //
 //  Created by tarou-imokenpi on 2025/04/22.
@@ -8,7 +8,7 @@
 import Foundation
 
 /// API から取得した名言データを表すモデル
-struct MeigenData: Codable {
+struct Meigen: Codable {
     /// 名言の本文
     let meigen: String
 
